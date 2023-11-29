@@ -1,3 +1,3 @@
 class Name:
-    def course():
-        return "the course is Advanced Python"
+    def display():
+        return "Hello users!"
